@@ -1,0 +1,8 @@
+Full API reference:
+https://developer.riotgames.com/api-methods/
+
+static data:
+https://developer.riotgames.com/static-data.html
+
+Cassiopeia documentation:
+https://cassiopeia.readthedocs.io/en/latest/settings.html#riot-api
