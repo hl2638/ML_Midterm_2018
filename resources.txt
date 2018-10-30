@@ -5,3 +5,12 @@ static data:
 https://developer.riotgames.com/static-data.html
 
 Riotwatcher
+#already installed.
+
+Analyzing win rate from champion picks:
+https://hackernoon.com/league-of-legends-predicting-wins-in-champion-select-with-machine-learning-6496523a7ea7
+#讲features的比较多，但是跟玩家有关的信息我们不需要
+
+Existent github project for picking champions
+https://github.com/vingtfranc/LoLAnalyzer
+#images里面有几张图，可以看下他的效果
