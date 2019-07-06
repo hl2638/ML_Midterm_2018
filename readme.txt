@@ -1,5 +1,5 @@
-//This project has been finished (with the work of me and another student) but not uploaded to GitHub for various reasons.
-
+//This project has been finished (with the work of me and another student) but not uploaded to GitHub.
+//The whole files are stored in our Google Drive folder and are too large to be uploaded here.
 
 
 
